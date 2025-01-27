@@ -1,5 +1,4 @@
 # infinite-volume-booster
-Most recent version of this extension that works &amp; has no malware.
 
 A reupload of latest clean version 1.2.5 of this extension, link to Chrome Stats: https://chrome-stats.com/d/nipbnfmgpgcabijookcnoienpfodnmhc
 
