@@ -15,3 +15,6 @@ You can also reduce a specific tab sound or mute it if you want.
 v1.1.1: addition of quick access buttons.
 
 v1.2.0-1.2.5: major UI adjustments.
+
+# How to use
+Just clone/download the zip of this repo & point Chrome to the folder or drag it in the extensions page.
