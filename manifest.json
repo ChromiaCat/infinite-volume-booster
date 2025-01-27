@@ -1,0 +1,22 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": "Infinite Volume Booster",
+  "version": "1.2.5",
+  "description": "Infinite boost any tab's volume separately",
+  "permissions": [
+    "activeTab",
+    "tabCapture"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "512": "icon.png"
+  }
+}
