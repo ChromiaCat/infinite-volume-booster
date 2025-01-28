@@ -1,4 +1,5 @@
 # infinite-volume-booster
+<img width="320" alt="unnamed" src="https://github.com/user-attachments/assets/f055469d-5945-4083-ac54-17b70e884678" />
 
 A reupload of latest clean version 1.2.5 of this extension, link to Chrome Stats: https://chrome-stats.com/d/nipbnfmgpgcabijookcnoienpfodnmhc
 This is for Chrome & is on Manifest V2 as I don't know how to update it for V3, if anyone is interested to contribute updated code for V3 feel free.
